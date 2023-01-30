@@ -9,6 +9,9 @@ public class rotate : MonoBehaviour
     public string _message = "Bucchelo Tech!";
     
     public string _usrname="Mahmut";
+
+    public Gameobject[] _gameobjects;
+    
     
     // Start is called before the first frame update
     void Start()
@@ -22,6 +25,8 @@ public class rotate : MonoBehaviour
 
         GetComponent<MeshRenderer>().enabled = false;
         GameObject.Find("Capsule").GetComponent<MeshRenderer>().enabled = false;
+
+        _gameobjects = GameObject.FindgameObjectsWithTag("sphere");
     }
 
     void Toplama()
