@@ -24,9 +24,12 @@ public class rotate : MonoBehaviour
         Toplama();
 
         GetComponent<MeshRenderer>().enabled = false;
-        GameObject.Find("Capsule").GetComponent<MeshRenderer>().enabled = false;
+        // GameObject.Find("Capsule").GetComponent<MeshRenderer>().enabled = false;
 
-        _gameobjects = GameObject.FindgameObjectsWithTag("sphere");
+        _gameobjects = GameObject.FindgameObjectsWithTag("Player");
+
+        foreach (GameObject _object in _gameobjects)
+            _object.GetComponent<MeshRenderer>().enabled = false;
     }
 
     void Toplama()
