@@ -30,6 +30,11 @@ public class rotate : MonoBehaviour
 
         foreach (GameObject _object in _gameobjects)
             _object.GetComponent<MeshRenderer>().enabled = false;
+
+        for (int value = 0; value < UPPER; value++)
+        {
+            
+        }
     }
 
     void Toplama()
