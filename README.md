@@ -8,3 +8,7 @@
 ***- The impact properties of objects are shown in the photo below.***
 
 ![objects_touching_property](https://user-images.githubusercontent.com/88820048/215506303-f5cf367c-3b89-4a34-9e2b-f11f6954118a.png)
+
+***- Simple video after using collision properties 👇***
+
+https://user-images.githubusercontent.com/88820048/215516192-6fd9a7d5-a16e-4794-88fd-044c6d9aef4e.mp4
