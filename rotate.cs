@@ -10,7 +10,7 @@ public class rotate : MonoBehaviour
     
     public string _usrname="Mahmut";
 
-    public Gameobject[] _gameobjects;
+    public GameObject[] _gameobjects;
     
     
     // Start is called before the first frame update
@@ -24,9 +24,9 @@ public class rotate : MonoBehaviour
         Toplama();
 
         GetComponent<MeshRenderer>().enabled = false;
-        // GameObject.Find("Capsule").GetComponent<MeshRenderer>().enabled = false;
+        GameObject.Find("Capsule").GetComponent<MeshRenderer>().enabled = false;
 
-        _gameobjects = GameObject.FindgameObjectsWithTag("Player");
+        _gameobjects = GameObject.FindGameObjectsWithTag("sphere");
 
         foreach (GameObject _object in _gameobjects)
             _object.GetComponent<MeshRenderer>().enabled = false;
