@@ -27,14 +27,16 @@ public class rotate : MonoBehaviour
         GameObject.Find("Capsule").GetComponent<MeshRenderer>().enabled = false;
 
         _gameobjects = GameObject.FindGameObjectsWithTag("sphere");
-
+        
+        // using Foreach Loop 👇
+        
         foreach (GameObject _object in _gameobjects)
             _object.GetComponent<MeshRenderer>().enabled = false;
+        
+        // using For Loop 👇
 
-        for (int value = 0; value < UPPER; value++)
-        {
-            
-        }
+        for (int value = 0; value < _gameobjects.Length; value++)
+            _gameobjects[value].GetComponent<MeshRenderer>().enabled = false;
     }
 
     void Toplama()
