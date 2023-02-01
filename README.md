@@ -16,3 +16,9 @@ https://user-images.githubusercontent.com/88820048/215516192-6fd9a7d5-a16e-4794-
 ***- Velocity and AddForce difference in Rigidbody 👇***
 
 ![velocity_addforce_difference](https://user-images.githubusercontent.com/88820048/216042425-2f41df50-7f3c-40d5-b2e1-bca63beadfbd.png)
+
+***- Prefab important note!!!***
+
+![prefab](https://user-images.githubusercontent.com/88820048/216053178-6b7950f9-5fc3-427f-a06d-6af01447a715.png)
+
+
