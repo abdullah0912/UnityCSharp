@@ -4,9 +4,8 @@ using UnityEngine;
 
 public class source_code_3 : MonoBehaviour
 {
-
     private void Start()
-    {   
+    {
         // We use this command to disable the object and all working properties.
         // Object disabled
         gameObject.SetActive(false);
@@ -20,7 +19,7 @@ public class source_code_3 : MonoBehaviour
          * Another way to delete objects is using Destroy method, for example 👇
          * Destroy(gameObject);
          * This code will remove the object from the projrct completely & you can't access or return it again.
-         * Destroy(gameObject,5);
+         * Destroy(gameObject,5.0f);
          * Also this code will remove the object but in 5 seconds as we wrote.
          */
     }
