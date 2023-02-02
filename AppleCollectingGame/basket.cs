@@ -17,7 +17,15 @@ public class basket : MonoBehaviour
 
             collision.gameObject.transform.position = new Vector3 (7, 7, -7);
         }
+        else
+        {
+            collision.gameObject.transform.position = new Vector3 (7, 7, -7);
+            _score = 0;
+            Debug.Log("Score: " + _score.ToString());
+            
+        }
     }
+    
     // Start is called before the first frame update
     void Start()
     {
