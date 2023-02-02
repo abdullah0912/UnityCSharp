@@ -15,14 +15,9 @@ public class basket : MonoBehaviour
             _score += 10;
             Debug.Log("Score: " + _score.ToString());
 
-            collision.gameObject.transform.position = new Vector3 (7, 7, -7);
-        }
-        else
-        {
-            collision.gameObject.transform.position = new Vector3 (7, 7, -7);
-            _score = 0;
-            Debug.Log("Score: " + _score.ToString());
-            
+            float _rand = Random.Range(0f, 11.5f);
+
+            collision.gameObject.transform.position = new Vector3 (_rand, 7, -7);
         }
     }
     
