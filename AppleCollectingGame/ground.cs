@@ -8,9 +8,7 @@ public class ground : MonoBehaviour
     {
         if (collision.gameObject.tag == "Apple")
         {
-            float _rand = Random.Range(0f, 11.5f);
-
-            collision.gameObject.transform.position = new Vector3 (_rand, 7, -7);
+            Destroy(collision.gameObject);
         }
     }
 }
