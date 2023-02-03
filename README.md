@@ -33,3 +33,8 @@ https://youtu.be/VW3PkEF1Fzk?list=PLHcOLPSLOK7PNvLAdnqicE_BeqoNH7Zwz
 
 3D Lego game with unity:
 https://youtu.be/KrosnqHJNAk
+
+-----------------------------
+
+Rocky area assetstore:
+https://assetstore.unity.com/packages/3d/environments/sci-fi/martian-surface-rocky-area-186736
