@@ -37,3 +37,8 @@ https://youtu.be/KrosnqHJNAk
 
 Rocky area assetstore:
 https://assetstore.unity.com/packages/3d/environments/sci-fi/martian-surface-rocky-area-186736
+
+---------------------------
+
+GameDevelopmentPDF:
+https://docs.google.com/document/d/1axeeBWp683LPU8gCBQQqmquHMYHuG3uhNTN0LjSJBKk/edit#heading=h.ctv1wxi9dpll
