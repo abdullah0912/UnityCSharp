@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using TMPro;
 
 public class basket : MonoBehaviour
 {
@@ -8,21 +9,23 @@ public class basket : MonoBehaviour
 
     public int _score = 0;
 
+    TextMeshProUGUI txtScore;
+    
+    // Start is called before the first frame update
+    private void Start()
+    {
+        txtScore = GameObject.Find("Canvas/txtScore").GetComponent<TextMeshProUGUI>();
+    }
     private void OnCollisionEnter(Collision collision)
     {
         if (collision.gameObject.tag == "Apple")
         {
             _score += 10;
             Debug.Log("Score: " + _score.ToString());
-
+            txtScore.text = _score.ToString();
+            
             Destroy(collision.gameObject);
         }
-    }
-    
-    // Start is called before the first frame update
-    void Start()
-    {
-        
     }
 
     // Update is called once per frame
