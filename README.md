@@ -47,3 +47,8 @@ https://docs.google.com/document/d/1axeeBWp683LPU8gCBQQqmquHMYHuG3uhNTN0LjSJBKk/
 
 GörselEffect öğrenmek için playlist:
 https://www.youtube.com/playlist?list=PLib1E3inQNLmDbRq9QPDD57Q9FljTJFee
+
+-----------------------
+
+3D zombies game:
+https://www.youtube.com/watch?v=tSkKIqvDTEM&list=PLA-xaldQ72ryGL-DyIGasa0qa6mIMcic6
