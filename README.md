@@ -42,3 +42,8 @@ https://assetstore.unity.com/packages/3d/environments/sci-fi/martian-surface-roc
 
 GameDevelopmentPDF:
 https://docs.google.com/document/d/1axeeBWp683LPU8gCBQQqmquHMYHuG3uhNTN0LjSJBKk/edit#heading=h.ctv1wxi9dpll
+
+--------------------------
+
+GörselEffect öğrenmek için playlist:
+https://www.youtube.com/playlist?list=PLib1E3inQNLmDbRq9QPDD57Q9FljTJFee
