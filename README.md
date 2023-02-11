@@ -11,7 +11,7 @@
 
 ***- Simple video after using collision properties 👇***
 
-https://user-images.githubusercontent.com/88820048/215516192-6fd9a7d5-a16e-4794-88fd-044c6d9aef4e.mp4
+https://user-images.githubusercontent.com/88820048/218260399-b24f342e-4820-426f-a4e9-5704fe147957.mp4
 
 ***- Velocity and AddForce difference in Rigidbody 👇***
 
