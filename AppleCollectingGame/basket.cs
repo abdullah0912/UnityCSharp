@@ -16,6 +16,7 @@ public class basket : MonoBehaviour
     {
         txtScore = GameObject.Find("Canvas/txtScore").GetComponent<TextMeshProUGUI>();
     }
+
     private void OnCollisionEnter(Collision collision)
     {
         if (collision.gameObject.tag == "Apple")

@@ -8,7 +8,7 @@ public class host : MonoBehaviour
 	public GameObject _apple;
 	float _timeInterval = 0.5f; // Zaman Aralığı
 	float _remainingTime = 0.0f; // Kalan Süre
-	public bool _gameStopped = false;
+	bool _gameStopped = false;
 
     void Start()
     {
@@ -18,10 +18,11 @@ public class host : MonoBehaviour
 	public void StopBtn(){
 		_gameStopped = !_gameStopped;
 
-		if(_gameStopped == true)
+		if(_gameStopped == true){
 			Time.timeScale = 0.0f;	
-		else
+		}else{
 			Time.timeScale = 1.0f;
+		}
 	}
 	
 	void AddApple(){
