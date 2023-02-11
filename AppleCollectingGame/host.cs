@@ -6,13 +6,23 @@ public class host : MonoBehaviour
 {
 	// public int _second = 10;    
 	public GameObject _apple;
-	float _timeInterval = 0.5f;
-	float _remainingTime = 0.0f;
+	float _timeInterval = 0.5f; // Zaman Aralığı
+	float _remainingTime = 0.0f; // Kalan Süre
+	public bool _gameStopped = false;
 
     void Start()
     {
         // InvokeRepeating("AddApple", 0.0f ,0.5f);
     }
+
+	public void StopBtn(){
+		_gameStopped = !_gameStopped;
+
+		if(_gameStopped == true)
+			Time.timeScale = 0.0f;	
+		else
+			Time.timeScale = 1.0f;
+	}
 	
 	void AddApple(){
 		float _rand = Random.Range(0.0f, 11.5f);
