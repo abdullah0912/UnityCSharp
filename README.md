@@ -52,3 +52,8 @@ https://www.youtube.com/playlist?list=PLib1E3inQNLmDbRq9QPDD57Q9FljTJFee
 
 3D zombies game:
 https://www.youtube.com/watch?v=tSkKIqvDTEM&list=PLA-xaldQ72ryGL-DyIGasa0qa6mIMcic6
+
+---------------------
+
+Introduction to Unity PDF:
+https://www.cs.purdue.edu/cgvlab/courses/490590VR/notes/Introduction%20to%20Unity.pdf
