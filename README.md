@@ -26,39 +26,5 @@ https://user-images.githubusercontent.com/88820048/215516192-6fd9a7d5-a16e-4794-
 
 https://user-images.githubusercontent.com/88820048/217807168-91f3c38f-824b-4cdb-bb80-c4d3b664ead3.mp4
 
-
-SpaceShipGame With Unity:
-https://youtu.be/VW3PkEF1Fzk?list=PLHcOLPSLOK7PNvLAdnqicE_BeqoNH7Zwz
-
-3D Lego game with unity:
-https://youtu.be/KrosnqHJNAk
-
------------------------------
-
-Rocky area assetstore:
-https://assetstore.unity.com/packages/3d/environments/sci-fi/martian-surface-rocky-area-186736
-
----------------------------
-
-GameDevelopmentPDF:
-https://docs.google.com/document/d/1axeeBWp683LPU8gCBQQqmquHMYHuG3uhNTN0LjSJBKk/edit#heading=h.ctv1wxi9dpll
-
---------------------------
-
-GörselEffect öğrenmek için playlist:
-https://www.youtube.com/playlist?list=PLib1E3inQNLmDbRq9QPDD57Q9FljTJFee
-
------------------------
-
-3D zombies game:
-https://www.youtube.com/watch?v=tSkKIqvDTEM&list=PLA-xaldQ72ryGL-DyIGasa0qa6mIMcic6
-
----------------------
-
-Introduction to Unity PDF:
-https://www.cs.purdue.edu/cgvlab/courses/490590VR/notes/Introduction%20to%20Unity.pdf
-
--------------------------
-
-Learning C# by Developing Games with Unity 3D Beginner's Guide PDF
-https://www.miro.ing.unitn.it/wp-content/download/Didactics/RoboticPerceptionAction/Software/Learning%20Csharp%20chapter_1-6.pdf
+***- Simply Button Events***
+![Ekran görüntüsü 2023-02-11 155638](https://user-images.githubusercontent.com/88820048/218260307-f53cc980-ee56-4c94-9567-1a05e101b73f.png)
