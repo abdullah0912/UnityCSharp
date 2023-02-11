@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class host : MonoBehaviour
 {
@@ -14,6 +15,11 @@ public class host : MonoBehaviour
     {
         // InvokeRepeating("AddApple", 0.0f ,0.5f);
     }
+	
+	public void PlayAgainBtn(){
+		SceneManager.LoadScene("Scenes/SampleScene");
+		Time.timeScale = 1.0f;
+	}	
 
 	public void StopBtn(){
 		_gameStopped = !_gameStopped;
