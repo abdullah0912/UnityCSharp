@@ -28,3 +28,6 @@ https://user-images.githubusercontent.com/88820048/217807168-91f3c38f-824b-4cdb-
 
 ***- Simply Button Events***
 ![Ekran görüntüsü 2023-02-11 155638](https://user-images.githubusercontent.com/88820048/218260307-f53cc980-ee56-4c94-9567-1a05e101b73f.png)
+
+***- Animation Animator Controller***
+![Ekran görüntüsü 2023-02-12 135619](https://user-images.githubusercontent.com/88820048/218308573-85c3e00d-7a9c-44be-843d-2368dde98525.png)
