@@ -34,4 +34,7 @@ https://user-images.githubusercontent.com/88820048/217807168-91f3c38f-824b-4cdb-
 
 ![Ekran görüntüsü 2023-02-12 145334](https://user-images.githubusercontent.com/88820048/218309392-4fb615f1-fd03-40af-9c18-d868e5547646.png)
 
+***- Animator Properites SetBool(), SetTrigger() etc. functions:
+![Ekran görüntüsü 2023-02-12 152546](https://user-images.githubusercontent.com/88820048/218310995-907f72b3-9c48-4ecd-972c-f6a279cd1454.png)
+
 
