@@ -31,3 +31,7 @@ https://user-images.githubusercontent.com/88820048/217807168-91f3c38f-824b-4cdb-
 
 ***- Animation Animator Controller***
 ![Ekran görüntüsü 2023-02-12 135619](https://user-images.githubusercontent.com/88820048/218308573-85c3e00d-7a9c-44be-843d-2368dde98525.png)
+
+![Ekran görüntüsü 2023-02-12 145334](https://user-images.githubusercontent.com/88820048/218309392-4fb615f1-fd03-40af-9c18-d868e5547646.png)
+
+
