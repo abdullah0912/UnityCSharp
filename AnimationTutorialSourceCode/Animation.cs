@@ -17,9 +17,15 @@ public class Animation : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.Space))
         {
-            bool _value = !_anim.GetBool("OtherAnimation");
+            /*
+             * Soruce code for SetBool function:
+             
+                bool _value = !_anim.GetBool("OtherAnimation");
 
-            _anim.SetBool("OtherAnimation", _value);
+                _anim.SetBool("OtherAnimation", _value);
+            */
+
+            _anim.SetTrigger("OtherAnimation");
         }
     }
 }
