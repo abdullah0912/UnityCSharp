@@ -35,7 +35,7 @@ public class light : MonoBehaviour
         }
         */
 
-        //Ray sendLight = GameObject.Find("Main Camera").GetComponent<Camera>().ViewportPointToRay(new Vector3(0.5f, 0.5f, 0));
+        // Ray sendLight = GameObject.Find("Main Camera").GetComponent<Camera>().ViewportPointToRay(new Vector3(0.5f, 0.5f, 0));
 
         Ray sendLight = _camera.ScreenPointToRay(new Vector3(Input.mousePosition.x, Input.mousePosition.y, 5.0f));
 
@@ -43,7 +43,7 @@ public class light : MonoBehaviour
         {
             if (_object.collider.gameObject.tag == "Player")
             {
-                Debug.Log("Object Touched!");
+                Debug.Log("Object Touched Successfully!");
             }
         }
     }
