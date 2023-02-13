@@ -9,10 +9,12 @@ public class light : MonoBehaviour
 {   
     RaycastHit _object;
 
+    Camera _camera;
+
     // Start is called before the first frame update
-    void Start()
+    private void Start()
     {
-        
+        _camera= GameObject.Find("Main Camera").GetComponent<Camera>();
     }
 
     // Update is called once per frame
@@ -35,7 +37,7 @@ public class light : MonoBehaviour
 
         //Ray sendLight = GameObject.Find("Main Camera").GetComponent<Camera>().ViewportPointToRay(new Vector3(0.5f, 0.5f, 0));
 
-        Ray sendLight = GameObject.Find("Main Camera").GetComponent<Camera>().ScreenPointToRay(Input.mousePosition);
+        Ray sendLight = _camera.ScreenPointToRay(new Vector3(Input.mousePosition.x, Input.mousePosition.y, 5.0f));
 
         if (Physics.Raycast(sendLight, out _object))
         {
