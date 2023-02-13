@@ -27,9 +27,11 @@ https://user-images.githubusercontent.com/88820048/218260399-b24f342e-4820-426f-
 https://user-images.githubusercontent.com/88820048/217807168-91f3c38f-824b-4cdb-bb80-c4d3b664ead3.mp4
 
 ***- Simply Button Events***
+
 ![Ekran görüntüsü 2023-02-11 155638](https://user-images.githubusercontent.com/88820048/218260307-f53cc980-ee56-4c94-9567-1a05e101b73f.png)
 
 ***- Animation Animator Controller***
+
 ![Ekran görüntüsü 2023-02-12 135619](https://user-images.githubusercontent.com/88820048/218308573-85c3e00d-7a9c-44be-843d-2368dde98525.png)
 
 ![Ekran görüntüsü 2023-02-12 145334](https://user-images.githubusercontent.com/88820048/218309392-4fb615f1-fd03-40af-9c18-d868e5547646.png)
@@ -37,4 +39,13 @@ https://user-images.githubusercontent.com/88820048/217807168-91f3c38f-824b-4cdb-
 ***- Animator Properites SetBool(), SetTrigger() etc. functions:
 ![Ekran görüntüsü 2023-02-12 152546](https://user-images.githubusercontent.com/88820048/218310995-907f72b3-9c48-4ecd-972c-f6a279cd1454.png)
 
+***- 3D Zombie Game simple video 👇***
+
+https://user-images.githubusercontent.com/88820048/218315665-3ed825f0-1baf-4f22-8bcd-5699b004124e.mp4
+
+***- Raycast important tricks***
+
+![raycasthyi](https://user-images.githubusercontent.com/88820048/218464081-bf36f155-2cbc-4454-b40e-d74714d434c2.png)
+
+![Ekran görüntüsü 2023-02-13 172014](https://user-images.githubusercontent.com/88820048/218483105-dc2b08f4-9649-496d-bb51-2e61e5da9d99.png)
 
