@@ -43,4 +43,6 @@ https://user-images.githubusercontent.com/88820048/217807168-91f3c38f-824b-4cdb-
 
 https://user-images.githubusercontent.com/88820048/218315665-3ed825f0-1baf-4f22-8bcd-5699b004124e.mp4
 
+***- Raycast important trick***
 
+![raycasthyi](https://user-images.githubusercontent.com/88820048/218464081-bf36f155-2cbc-4454-b40e-d74714d434c2.png)
